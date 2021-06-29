@@ -3,7 +3,7 @@
   <h1 align="center">👋 Hi, I'm Justin</h1>
   
   <p align="center">
-    engineer <a href="https://candor.co">@Candor</a> &middot; 
+    software <a href="https://candor.co">@Candor</a> &middot; 
     <a href="https://static.justinoboyle.com/resume.pdf"><strong>Resume</strong></a> &middot; 
     <a href="https://linkedin.com/in/justinoboyle"><strong>LinkedIn</strong></a>
   </p>
