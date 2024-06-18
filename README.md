@@ -15,7 +15,11 @@
 <hr />
 <h2>Professional work</h2>
 
-<h3>Software Engineer – <a href="https://candor.co">Candor</a>: 2021–2024 (staff)</h3>
+<h3>Software Engineer – <a href="https://sandboxwealth.com">Sandbox Wealth</a>: 2024-</h3>
+
+- building banking solutions for families, founders, and advisors
+
+<h3>Software Engineer – <a href="https://candor.co">Candor</a>: 2021–2024</h3>
 
 - rebuilt modern financial dashboards in TypeScript and React using best design and accessibility practices
 - rapid development of new financial trading features including ACATS, ACH, FedNow, wash sale rules, tax lots and fractional shares
