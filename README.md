@@ -9,7 +9,7 @@
 </p>
 
 
-- 💬 Ask me about web dev, JavaScript, C++, or NYC coffee shops
+- 💬 Ask me about web dev, financial APIs or NYC coffee shops
 - 📫 How to reach me: [email me!](mailto:justin+github@justinoboyle.com)
 - 😄 Pronouns: he/him
 <hr />
@@ -26,7 +26,7 @@
 - full local testing environment for real-time financial trading services
 - full devops setups with Amazon Web Services (AWS Lambda), Vercel, Turborepo and pnpm
 - microservices development for real-time reporting and compliance
-- liasoned with design and UX staff to create marketing pages and dashboards
+- worked with design and UX staff to create marketing pages and dashboards
 
 <h3>Freelance and contract projects</h3>
 
@@ -39,7 +39,7 @@ Various full-stack, financial focused, multimedia-focused, and other projects, i
 
 Stevens Institute of Technology, Hoboken NJ — B.S. Computer Science
 
-<strong>Hard skills:</strong> Node.JS, JavaScript, TypeScript, Postgres, Python, Java, C++, Golang, React, React Native, Linux, AWS, AWS Lambda, AWS CodeBuild, AWS CloudFormation, Google Cloud, Android, HTML, CSS, Docker, Git, PHP, CSS, Vim, Bash, REST, GitHub, GitLab, Bitbucket, G Suite, SQL, MongoDB, NoSQL, Vercel
+<strong>Hard skills:</strong> Node.JS, NextJS, JavaScript, TypeScript, Postgres, Python, Java, C++, React, React Native, Linux, AWS, AWS Lambda, AWS CodeBuild, AWS CloudFormation, Google Cloud, Microsoft Azure, Android, HTML, CSS, Docker, Git, CSS, Vim, Bash, REST, GitHub, G Suite, SQL, MongoDB, NoSQL, Vercel, OpenAI API, LLM API, Anthropic Claude API
 
 <strong>Soft skills:</strong> Team management, Slack, JIRA/Linear/ticket management, team leadership, effective communication
 
