@@ -4,7 +4,7 @@
 <a href="https://linkedin.com/in/justinoboyle"><strong>LinkedIn</strong></a> | 
 [email me!](mailto:justin+github@justinoboyle.com)
 
-Ask me about financial APIs, building safe agents for finance or NYC coffee shops!
+Ask me about financial APIs, building safe agents for finance, or NYC coffee shops!
 
 Pronouns: he/him
 
